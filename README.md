@@ -1,0 +1,2 @@
+# MinecraftGUIMetroize
+[hugoalh_Minecraft_ResourcePack_GUIMetroize]
