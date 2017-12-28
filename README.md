@@ -1,3 +1,3 @@
 # MinecraftGUIMetroize
 [hugoalh_Minecraft_ResourcePack_GUIMetroize]
-!Testing, all files are not in order!
+!New project/Testing, all files are not in order/placing!
