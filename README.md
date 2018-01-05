@@ -1,4 +1,7 @@
 # MinecraftGUIMetroize
-[hugoalh_Minecraft_ResourcePack_GUIMetroize]
 
-**!New project/Testing, all files are not in order/placing!**
+## Important
+* This is a new project, files may not in the right order/place/folder!
+
+## Project Index
+Project Code: hugoalh_Minecraft_ResourcePack_GUIMetroize
