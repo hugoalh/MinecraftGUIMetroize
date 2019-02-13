@@ -1,6 +1,11 @@
 {
 	"pack": {
-		"pack_format": 4,
-		"description": "GUI Metroize - Java Vanilla @hugoalh, 4-2.2.0"
+		"identity": "hugoalh.minecraft.java.resourcepack.guimetroize-vanilla",
+		"name": "Minecraft Java Resource Pack: GUI Metroize - Vanilla",
+		"author": "hugoalh",
+		"version": "2.2.0",
+		"description": "hugoalh.minecraft.java.resourcepack.guimetroize-vanilla 4-2.2.0",
+		"tag": ["hugoalh", "minecraft", "java", "resourcepack", "guimetroize-vanilla"],
+		"pack_format": 4
 	}
 }
